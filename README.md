@@ -1,5 +1,5 @@
 
-# Simulador de coleta de itens
+# Escolha a Poção
 
 Projeto para fins educacionais, um jogo para testar condições, como else if.
 
